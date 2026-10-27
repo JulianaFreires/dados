@@ -1,0 +1,101 @@
+patient_id,report_text,disease,category,avg_heart_rate_bpm,mean_arterial_pressure_mmhg,spo2_percent,heart_rate_status,map_status,spo2_status
+P0030,"Hard to breathe, especially after running or any effort",Shortness of breath,Respiratory,106,76,79,tachycardia,normal,hypoxemia
+P0044,"Had a deep wound in my hand, can’t stop the bleeding, it’s so stressful",Non-healing wound,Skin/Infection,73,80,97,normal,normal,normal
+P0074,"Whenever I stand up too quickly, I get dizzy and light-headed, almost like I’m gonna fall over",Dizziness/Vertigo,Neurological,105,58,98,tachycardia,hypotension,normal
+P0093,"Lately, I just feel so down all the time, and I can’t seem to shake it off. It’s like a heavy cloud just hovering over me, and even when there’s no reason to be sad, I just feel this constant weight.",Depression/Anxiety,Psychiatric/Mood,95,98,96,normal,normal,normal
+P0144,I get so confused with all the numbers on my glucose meter!,Tingling/Numbness,Neurological,78,99,96,normal,normal,normal
+P0168,"Sharp pain in my stomach, don’t know what’s causing it",Stomach pain,Gastrointestinal,103,79,98,tachycardia,normal,normal
+P0250,Sometimes I cough because I'm a smoker .,Lung disease/Cough,Respiratory,96,79,91,normal,normal,borderline
+P0280,"I can't stand up properly, it feels like my brain is moving inside my skull, it’s really painful",Migraine/Headache,Neurological,97,103,97,normal,normal,normal
+P0286,I feel like I’m losing parts of my memory can’t even remember what I did this morning,Memory/Cognitive impairment,Neurological,80,97,96,normal,normal,normal
+P0352,"I’ve been feelin' nauseous and my urine is dark, should I be concerned about my liver?",Nausea,Gastrointestinal,97,77,98,normal,normal,normal
+P0371,"Every time I swallow, it feels like I'm swallowing a razor blade",Infected wound,Skin/Infection,111,60,95,tachycardia,hypotension,normal
+P0383,"The severe pain in the stomach I feel, it's really hard to deal with",Stomach pain,Gastrointestinal,100,76,98,normal,normal,normal
+P0385,"Got this persistent pain in my head, it’s really affecting my daily life",Migraine/Headache,Neurological,69,116,98,normal,hypertension,normal
+P0388,Severe pain in the upper left side of chest and may have pain to back,Chest pain/Myocardial infarction,Cardiovascular,110,92,90,tachycardia,normal,borderline
+P0420,My fertility problems are stressing both of us out and we’re considering specialist help to figure things out,Depression/Anxiety,Psychiatric/Mood,93,92,96,normal,normal,normal
+P0432,"I have a dry throat and it’s making me cough, can’t seem to find relief",Lung disease/Cough,Respiratory,89,94,91,normal,normal,borderline
+P0437,"When I stand up, I feel like I’m going to fall down instantly, it’s really scary",Dizziness/Vertigo,Neurological,101,61,94,tachycardia,hypotension,borderline
+P0441,I’m gettin’ dizzy a lot and somtimes I feel like I’m gonna fall,Dizziness/Vertigo,Neurological,94,64,98,normal,hypotension,normal
+P0493,I have this weird internal pain that I can't explain. It's like a gnawing sensation in my stomach.,Stomach pain,Gastrointestinal,94,84,96,normal,normal,normal
+P0546,"I’m worried about how cold intolerant I am, I shiver even when it's sunny",Cold intolerance/Hypothermia,General/Metabolic,57,61,95,bradycardia,hypotension,normal
+P0569,"I walk every day, but now I get short of breath after a very short distance. So frustrating",Shortness of breath,Respiratory,105,85,86,tachycardia,normal,hypoxemia
+P0636,Is my cut infected or just healing? It's red and looks bad,Infected wound,Skin/Infection,103,58,95,tachycardia,hypotension,normal
+P0667,"Every time I get stressed, I have a seizure, my body just shuts down",Seizure/Epilepsy,Neurological,105,81,91,tachycardia,normal,borderline
+P0682,"I wish I could just remember things better, it’s exhausting!",Memory/Cognitive impairment,Neurological,95,93,92,normal,normal,borderline
+P0691,"I keep loosing weight without trying, and my body feels weak could it be my immune system",Fatigue/Weakness,General/Metabolic,74,59,91,normal,hypotension,borderline
+P0693,"Can’t stop feeling cold, even though it’s not that cold outside",Cold intolerance/Hypothermia,General/Metabolic,36,66,91,bradycardia,normal,borderline
+P0701,Bleeding heavy even after taking my birth cntrol pills,Bleeding/Hematologic,Hematologic,126,58,93,tachycardia,hypotension,borderline
+P0750,"I can't bear this squeezing sensation in my chest, feels like my heart is being crushed",Chest pain/Myocardial infarction,Cardiovascular,110,97,95,tachycardia,normal,normal
+P0776,Tried fertility diet but still nothing happens,Nutrition/Diet,Nutritional,73,70,96,normal,normal,normal
+P0783,My stomach feels full and upset and bloating after big meals. I feel so uncomfortable,Stomach pain,Gastrointestinal,102,70,94,tachycardia,normal,borderline
+P0800,I keep gettin' these urgent urges to pee but then nothin' happens when I try to go.,Urinary problem,Renal/Urinary,95,52,95,normal,hypotension,normal
+P0805,i feel dizzy after severe diarrhea,Dizziness/Vertigo,Neurological,71,55,95,normal,hypotension,normal
+P0824,"Wound got infected when I was planting flowers in my garden, it’s bad now",Non-healing wound,Skin/Infection,91,75,94,normal,normal,borderline
+P0861,"My head feels so heavy and foggy, I can't think straight at all",Migraine/Headache,Neurological,97,106,95,normal,hypertension,normal
+P0882,"There’s an injured person who needs attention, their wound looks really bad",Non-healing wound,Skin/Infection,93,80,97,normal,normal,normal
+P0969,"When I drink a lot, I always end up with a headache, so annoying",Migraine/Headache,Neurological,99,101,97,normal,normal,normal
+P0971,I think my wound is infected,Non-healing wound,Skin/Infection,70,86,97,normal,normal,normal
+P0983,"My hands are so stiff, I can't even make a fist anymore",Generalized pain,General/Metabolic,107,90,93,tachycardia,normal,borderline
+P0999,"Sometimes my body just feels weak out of nowhere, it’s weird .",Fatigue/Weakness,General/Metabolic,83,71,94,normal,normal,borderline
+P1029,"Doc, I feel some powerful pain in my ribs. it's hard to breath",Shortness of breath,Respiratory,115,73,81,tachycardia,normal,hypoxemia
+P1060,"I feel super confused after my seizures, like my brain is scrambled",Seizure/Epilepsy,Neurological,111,94,90,tachycardia,normal,borderline
+P1067,Head hurts whenever I do anything. It’s constant .,Migraine/Headache,Neurological,94,100,98,normal,normal,normal
+P1079,"Chest hurts when I smoke, should I be worried?",Chest pain/Myocardial infarction,Cardiovascular,110,97,95,tachycardia,normal,normal
+P1093,"My tooth hurts every time I eat somethin' hot or cold, and it’s makin' me worry",Cold intolerance/Hypothermia,General/Metabolic,56,61,94,bradycardia,hypotension,borderline
+P1133,"I’ve been wheezing a lot and can’t catch my breath, is it asthma?",Asthma,Respiratory,107,82,93,tachycardia,normal,borderline
+P1166,"Felt my heart hurting after running a long distance, so worrying",Palpitations/Arrhythmia,Cardiovascular,112,92,98,tachycardia,normal,normal
+P1204,I feel so sore in my stomach area.,Stomach pain,Gastrointestinal,100,67,94,normal,normal,borderline
+P1216,"The last time I clipped my toenails, I cut them too short and now I have an infected nail.",Infected wound,Skin/Infection,102,51,93,tachycardia,hypotension,borderline
+P1231,"I find myself misplacing everyday items, like my wallet!",Memory/Cognitive impairment,Neurological,95,71,95,normal,normal,normal
+P1238,I don't know why I'm constantly sad. It feels like a weight on my chest,Chest pain/Myocardial infarction,Cardiovascular,115,80,92,tachycardia,normal,borderline
+P1260,"I can't breathe well at all, and my asthma is making it worse. I feel like I'm suffocating!",Asthma,Respiratory,119,71,92,tachycardia,normal,borderline
+P1290,"Not feeling well, got an infected wound, can’t seem to get better",Non-healing wound,Skin/Infection,71,83,97,normal,normal,normal
+P1299,"My lips swelled up out of nowhere yesterday, and I have no idea why",Swelling/Allergy,Allergic/Immunologic,108,63,87,tachycardia,hypotension,hypoxemia
+P1301,"My heart aches, emotionally can't handle this anymore",Palpitations/Arrhythmia,Cardiovascular,138,88,98,tachycardia,normal,normal
+P1396,"Heart hurts, I feel sharp pricks all over",Palpitations/Arrhythmia,Cardiovascular,114,72,95,tachycardia,normal,normal
+P1398,I have a pain that radiates up from my right hip to my rib cage. It is at its worst when I urinate,Hip pain/Fall/Fracture,Musculoskeletal/Fall,89,90,95,normal,normal,normal
+P1436,I feel dizzy after severe diarrhea. It’s like the room is spinning and I can’t stand up,Dizziness/Vertigo,Neurological,98,50,95,normal,hypotension,normal
+P1452,"There are times when I feel crushed under a huge weight and no air passing to my lungs, it actually scares the hell out of me when it happens",Lung disease/Cough,Respiratory,95,96,89,normal,normal,hypoxemia
+P1463,"Wake up at night feeling so cold, even under the covers",Cold intolerance/Hypothermia,General/Metabolic,51,65,93,bradycardia,normal,borderline
+P1526,I got a buring sensation in my back and then my legs feel numb,Tingling/Numbness,Neurological,96,108,95,normal,hypertension,normal
+P1528,"My urine smells really bad and I don’t know what’s causin' it, it’s kinda embarrassing",Urinary problem,Renal/Urinary,98,66,92,normal,normal,borderline
+P1543,My head is spinning when I get up. I feel dizzy and disoriented,Dizziness/Vertigo,Neurological,87,63,95,normal,hypotension,normal
+P1601,"When I stand up too quickly, I start to feel dizzy and light-headed .",Dizziness/Vertigo,Neurological,70,60,96,normal,hypotension,normal
+P1665,"Coughing gets worse when winter comes around, can’t stop it no matter what I do",Lung disease/Cough,Respiratory,106,75,87,tachycardia,normal,hypoxemia
+P1682,I don’t know how to handle these mood swings anymore.,Mood swings,Psychiatric/Mood,87,94,98,normal,normal,normal
+P1708,Stiffness inability to look right or left except by moving the whole body,Generalized pain,General/Metabolic,102,103,96,tachycardia,normal,normal
+P1736,"I’m so sad, feels like my mind is hurting. Everything is just so overwhelming lately, especially after the breakup",Depression/Anxiety,Psychiatric/Mood,95,105,100,normal,normal,normal
+P1741,"My body feels weak, even tho I take my vitamins regularly. It’s frustrating",Fatigue/Weakness,General/Metabolic,73,70,91,normal,normal,borderline
+P1748,"I’ve started counting carbs, but it’s hard to keep track!",Nutrition/Diet,Nutritional,52,61,92,bradycardia,hypotension,borderline
+P1749,It's been weeks with this weird fever and I can’t even sleep!,Bleeding/Hematologic,Hematologic,123,42,92,tachycardia,hypotension,borderline
+P1778,I feel dizzy after severe diarrhea.. any idea why?,Dizziness/Vertigo,Neurological,81,62,98,normal,hypotension,normal
+P1794,"My head hurts n I got some vertigo, so weird .",Dizziness/Vertigo,Neurological,105,57,93,tachycardia,hypotension,borderline
+P1798,I get really nervous in social situations because of my moods.,Mood swings,Psychiatric/Mood,84,105,98,normal,normal,normal
+P1806,I keep feeling this heaviness in my chest when I’m down.,Chest pain/Myocardial infarction,Cardiovascular,96,97,95,normal,normal,normal
+P1809,"My hands swell up when I wake up, it takes hours before I can move them properly",Swelling/Allergy,Allergic/Immunologic,115,63,93,tachycardia,hypotension,borderline
+P1862,"I feel this deep internal pain, can’t quite pinpoint where it’s coming from",Generalized pain,General/Metabolic,92,105,96,normal,normal,normal
+P1863,"Feel deep tingling when I touch my acne, followed by a bad sensation",Tingling/Numbness,Neurological,62,106,98,normal,hypertension,normal
+P1877,"I feel like my whole body is in pain, even though I take my vitamins regularly",Nutrition/Diet,Nutritional,63,64,95,normal,hypotension,normal
+P1891,"It's like my words are stuck in my throat, can't explain it",Speech/Comprehension disorder,Neurological,62,137,96,normal,hypertension,normal
+P1897,"Metro station makes it hard to breathe, idk why",Shortness of breath,Respiratory,116,95,89,tachycardia,normal,hypoxemia
+P1930,"Muscles feel exhausted, like they’re just completely drained",Fatigue/Weakness,General/Metabolic,55,67,90,bradycardia,normal,borderline
+P1939,Feels like my heart is going to explode anytime now...so painful,Palpitations/Arrhythmia,Cardiovascular,129,87,96,tachycardia,normal,normal
+P2053,Tried everything but still feel so weak,Fatigue/Weakness,General/Metabolic,74,68,91,normal,normal,borderline
+P2056,I have a problem in the expiration because i have bronchial asthma,Asthma,Respiratory,100,98,93,normal,normal,borderline
+P2063,"My body feels so weak, even though I take my vitamins regularly. It’s really frustrating",Fatigue/Weakness,General/Metabolic,79,71,93,normal,normal,borderline
+P2132,"I mix up words, can't seem to get it out right anymore",Speech/Comprehension disorder,Neurological,73,109,98,normal,hypertension,normal
+P2302,I’ve got this severe dry cough that just won’t go away .,Lung disease/Cough,Respiratory,93,100,90,normal,normal,borderline
+P2306,"My mood changes so quickly, I feel like I’m in a movie!",Mood swings,Psychiatric/Mood,98,80,97,normal,normal,normal
+P2313,"I can't stop coughing, it's persistent and really bothersome",Lung disease/Cough,Respiratory,90,85,92,normal,normal,borderline
+P2333,"I had a seizure at work yesterday, and now I'm scared it’ll happen again",Seizure/Epilepsy,Neurological,109,95,83,tachycardia,normal,hypoxemia
+P2357,My cough is really heavy and there's so much mucus. It's been like this for days,Lung disease/Cough,Respiratory,112,80,92,tachycardia,normal,borderline
+P2365,can't sleep cz of the cold,Cold intolerance/Hypothermia,General/Metabolic,53,60,92,bradycardia,hypotension,borderline
+P2379,"My knee is swelling up, and it seems like I might have an infected wound .",Non-healing wound,Skin/Infection,91,98,98,normal,normal,normal
+P2381,"I broke my ankle while doing rock climbing in the Carpathians, now it's swollen and bruised",Hip pain/Fall/Fracture,Musculoskeletal/Fall,104,88,95,tachycardia,normal,normal
+P2444,I’ve got this sharp pain in my lower stomach that won’t go away,Stomach pain,Gastrointestinal,90,85,96,normal,normal,normal
+P2489,I'm feeling nauseous and my bely is churning. It's affecting my appetite,Nausea,Gastrointestinal,92,78,96,normal,normal,normal
+P2501,"I feel lightheaded, especially after standing for a while...",Dizziness/Vertigo,Neurological,78,46,96,normal,hypotension,normal
+P2520,I made lots of analysis to know the main reason for my stomach ache .,Stomach pain,Gastrointestinal,109,82,98,tachycardia,normal,normal
+P2533,"I feel cold all the time, even when I’m bundled up",Cold intolerance/Hypothermia,General/Metabolic,58,63,95,bradycardia,hypotension,normal
+P2535,"I have a red spot on my leg that won't heal, it's been a week",Infected wound,Skin/Infection,115,60,90,tachycardia,hypotension,borderline
